@@ -11,13 +11,13 @@ const Contact = () => {
             <h4>Email</h4>
             <p>
               <a href="mailto:example@mail.com" data-cursor="disable">
-                example@mail.com
+                rexyyfx@gmail.com
               </a>
             </p>
             <h4>Phone</h4>
             <p>
               <a href="tel:+9199999999" data-cursor="disable">
-                +91 99999 99999
+                +91 9627374717
               </a>
             </p>
           </div>
@@ -29,7 +29,7 @@ const Contact = () => {
               data-cursor="disable"
               className="contact-social"
             >
-              Github <MdArrowOutward />
+              Github <rexyyfx />
             </a>
             <a
               href="https://www.linkedin.com"
@@ -53,7 +53,7 @@ const Contact = () => {
               data-cursor="disable"
               className="contact-social"
             >
-              Instagram <MdArrowOutward />
+              Instagram <rexyy.dev />
             </a>
           </div>
           <div className="contact-box">
